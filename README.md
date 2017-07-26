@@ -1,8 +1,6 @@
-# Your Plugin Name
+# NativeScript-TensorFlow
 
-Add your plugin badges here. See [nativescript-urlhandler](https://github.com/hypery2k/nativescript-urlhandler) for example.
-
-Then describe what's the purpose of your plugin. 
+This plugin enables the use of TensorFlow models within NativeScript apps
 
 In case you develop UI plugin, this is where you can add some screenshots.
 
